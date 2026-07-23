@@ -13,4 +13,4 @@ Technologies Used:
 - TinyDB
 
 Author:
-Aizah
+GitHub: https://github.com/aizahctrl
